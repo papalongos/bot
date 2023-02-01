@@ -17,9 +17,6 @@ base = 'BTC'
 quote = 'USDT'
 amount = 0.000039
 
-# his not going to sit throug bugfixing.
-# Fix yourself.
-# Get to the point where he can see results (some money earned), get him excited.
 
 order_book = kucoin.fetch_order_book(symbol)
 
